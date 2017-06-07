@@ -4,7 +4,8 @@ class add
 	public static void main()
 	{
 		int i=10,j=20;
-		Console.WriteLine(i+j);
+		int k=i+j;
+		Console.WriteLine(k);
 		Console.ReadKey();
 	}
 }
