@@ -1,5 +1,5 @@
 using system
-class add.cs
+class add
 {
 	public static void main()
 	{
